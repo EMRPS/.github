@@ -1,4 +1,7 @@
 # 企业生产计划决策系统软件（EMRPS）
+
 针对传统商业计划优化软件采用电子表格建模所导致的过程繁琐，使用门槛高的问题，国家流程制造智能调控技术创新中心自主开发基于图形界面的**企业生产计划决策系统软件（EMRPS）**。该软件涵盖丰富的基本图库和优化模型库，通过简单的拖拽式和连线式方式构建计划优化业务流程，突破了传统计划优化软件在图形化构建业务上的瓶颈。软件包含**原料筛选、资源配置和产品调控**等功能模块，为企业计划决策提供支撑。
+
 To address the complexities and high entry barries associated with traditional production planning optimization softwares relying on spreadsheet modeling, the National Center Of Technology Innovation For Smart Process Manufacturing has independently developed the **Enterprise Manufacture Resource Planning System (EMRPS)**. This software is built on a user-friendly graphical interface and offers an extensive library of basic diagrams and optimization models. By utilizing simple drag-and-drop functionality and seamless linkage method, the software facilitates the construction of a typical production planning workflow, overcoming the bottleneck in graphical process construction faced by traditional softwares. The EMRPS software incorporates functional modeles such as **raw material screening, resource allocation, and product regulaion**, thereby enhancing the company's decision-making capabilities.
+
 [EMRPS+企业生产计划决策系统软件-宣传册.pdf](https://github.com/user-attachments/files/18928318/EMRPS%2B.-.pdf)
